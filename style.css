@@ -1,4 +1,183 @@
-.navbar{
-    height: auto;
-    border: 1px solid black;
+body{
+    font-family: 'Kodchasan', sans-serif;
+    background-color:#FEFEFF;
+    font-family: 'M PLUS 1p', sans-serif;
+
+  
+}
+
+.anniversary{
+    
+    padding: 30px;
+}
+
+.nav-item a{
+    color:#FEFEFF;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    color: #7C4C53;
+    font-weight: bold;
+}
+
+
+
+.item-1{
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+
+.item-2{
+    padding-top: 20px;
+    text-align: justify;
+}
+
+.item-3{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.item-2 h3{
+    text-align: center;
+    color: #7C4C53;
+    font-weight: bold;
+}
+.item-2 a{
+    text-decoration: none;
+   
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #7C4C53;
+   
+}
+
+.item-2 p{
+   
+}
+
+
+
+.item-2-1 a{
+    color: #7C4C53;
+    text-decoration: none;
+
+}
+
+
+.item-2-2 h3{
+    text-align: center;
+    color: #7C4C53;
+    font-weight: bold;
+}
+
+.item-2-2 p{
+    text-align: justify;
+}
+
+
+.item-3 a{
+    text-decoration: none;
+    color: #B4CF66;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #7C4C53;
+    
+}
+
+
+.item-3 p{
+    text-align: justify;
+}
+
+
+
+.item-3 h3{
+
+    color: #7C4C53;
+    font-weight: bold;
+}
+
+.item-5 p {
+text-align: justify;
+}
+
+.item-5 h3{
+    text-transform: uppercase;
+    padding-top: 20px;
+    color: #B4CF66;
+    font-weight: bolder;
+    color: #7C4C53;
+}
+
+.item-6 img{
+   padding-top: 20px;
+   padding-bottom:30px;
+}
+
+footer {
+    background-color: #B4CF66 ;
+}
+
+
+
+
+
+
+.item-2-1 h3 {
+    text-align: center;
+    color: #7C4C53;
+    font-weight: bold;
+   
+    padding-top: 20px;
+}
+.item-2-1 p{
+    text-align: justify;
+}
+
+
+
+.bureau p{
+    color: #7C4C53;
+    font-weight: bold;
+
+}
+
+.association{
+    color: #7C4C53;
+    font-weight: bold;
+}
+
+.utiles a{
+    color: #7C4C53;
+    font-weight: bold;
+}
+
+
+.social{
+    color: #7C4C53;
+    font-weight: bold;
+}
+
+.content h5{
+  text-align: center;
+  text-transform: uppercase;
+  color: #7C4C53;
+  font-weight: bold;
+  padding-top: 20px;
+
+    
+}
+
+.content p{
+    padding-top: 20px;
+}
+
+
+.nav-link a:hover{
+   
 }
